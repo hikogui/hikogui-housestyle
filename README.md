@@ -13,6 +13,7 @@ all lower case. When used at the start of a sentence the first letter is capatil
 
 Colors
 ------
-Background color: black, or dark grey.
-First accent color: PANTONE: 1655; sRGB: 202,82,1; #ca5201
-Second accent color: PANTONE: 100; 255,252,121; #fffc79
+ - Background color: black, or dark grey.
+ - First accent color: PANTONE: 1655; sRGB: 202,82,1; #ca5201
+ - Second accent color: PANTONE: 100; 255,252,121; #fffc79
+
