@@ -4,16 +4,27 @@ The house style of the ttauri brand
 
 The ttauri brand name
 ---------------------
-The libray is called `ttauri`, all lower case. When used at the start of a sentence
-both 'T's are capatilized, like: `TTauri is a gui library.`
+The ttauri brand name can be used to either describe "ttauri" the graphic
+user interface library, or the umbrella project "the ttauri library" which
+includes several products.
 
-The project which includes the ttauri library, examples and tools is called `the ttauri project`,
-all lower case. When used at the start of a sentence the first letter is capatilized, like:
-`The ttauri project includes the library, examples and tools`.
+Even though "ttauri" is proper name it is written in all lower case; this
+includes when "ttauri" or "the ttauri library" is used by itself as a title
+or part of a logo.
+
+"TTauri" has both Ts capitalized when it is used at the start of a sentence
+or as part of a title cased headline.
+
+Fonts
+-----
+ - Logo: Arial Black
+ - Header: Montserrat
+ - Plain text: Gill Sans
 
 Colors
 ------
  - Background color: black, or dark grey.
+ - Foreground color: white, or light grey.
  - First accent color: PANTONE: 1655; sRGB: 202,82,1; #ca5201
  - Second accent color: PANTONE: 100; 255,252,121; #fffc79
 
