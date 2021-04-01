@@ -19,7 +19,8 @@ Fonts
 -----
  - Logo: Arial Black
  - Header: Montserrat
- - Plain text: Gill Sans
+ - Plain text: Lato-Light (300)
+ - Italic text: GentiumBasic Italic (weight reduced to matche the plain text).
 
 Colors
 ------
