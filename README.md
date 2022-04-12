@@ -1,19 +1,17 @@
-ttauri-housestyle
+HikoGUI-housestyle
 =================
-The house style of the ttauri brand
+The house style of the HikoGUI brand
 
-The ttauri brand name
----------------------
-The ttauri brand name can be used to either describe "ttauri" the graphic
-user interface library, or the umbrella project "the ttauri library" which
-includes several products.
+The HikoGUI brand name
+----------------------
+The HikoGUI brand name is used to describe:
+ * The GUI library
+ * The umbrella project containing several other products
+   which are used to build the GUI library.
 
-Even though "ttauri" is proper name it is written in all lower case; this
-includes when "ttauri" or "the ttauri library" is used by itself as a title
-or part of a logo.
-
-"TTauri" has both Ts capitalized when it is used at the start of a sentence
-or as part of a title cased headline.
+The HikoGUI name has two capitalizations:
+ * "HikoGUI": used as a proper name in sentences or titles.
+ * "hikogui": used as, or part of an identifier.
 
 Fonts
 -----
